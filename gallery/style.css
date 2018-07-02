@@ -1,0 +1,33 @@
+div{
+    /* border:1px solid gray; */
+    border-spacing: 0px;
+}
+
+#gallery{
+    width: 535px;
+    margin:0 auto;
+    min-height: 500px;
+}
+
+#img{
+    min-height: 500px;
+    float:left;
+    width:500px;
+}
+
+#larrow , #rarrow{
+    width:15px;
+    float:left;
+    min-height: 500px;
+    line-height: 500px;
+    /* background-color:blue; */
+    text-align: center;
+    font-weight: 900;
+    color: green;
+    font-size: 15px;
+}
+
+#larrow:hover, #rarrow:hover{
+    text-shadow: 1px 2px 2px gray;
+    cursor: pointer;
+}
