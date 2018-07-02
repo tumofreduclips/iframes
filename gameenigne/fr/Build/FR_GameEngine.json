@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Clean_GameEngine",
+"dataUrl": "FR_GameEngine.data.unityweb",
+"asmCodeUrl": "FR_GameEngine.asm.code.unityweb",
+"asmMemoryUrl": "FR_GameEngine.asm.memory.unityweb",
+"asmFrameworkUrl": "FR_GameEngine.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
