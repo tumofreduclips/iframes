@@ -5,22 +5,23 @@ div{
 }
 
 #gallery{
-    width: 490px;
+    width: 525px;
     margin:0 auto;
     min-height: 500px;
+    border: solid 1px gray;
 }
 
 #img{
-    min-height: 460px;
+    min-height: 480px;
     float:left;
-    width: 460px;
+    width: 480px;
     background: #9e9e9e2e no-repeat;
     background-size: cover;
     cursor:pointer;
 }
 
 #larrow , #rarrow{
-    width: 15px;
+    width: 21px;
     float:left;
     min-height: 460px;
     line-height: 460px;
