@@ -5,7 +5,7 @@ div{
 }
 
 #gallery{
-    width: 500px;
+    width: 490px;
     margin:0 auto;
     min-height: 500px;
 }
@@ -20,7 +20,7 @@ div{
 }
 
 #larrow , #rarrow{
-    width: 20px;
+    width: 15px;
     float:left;
     min-height: 460px;
     line-height: 460px;
