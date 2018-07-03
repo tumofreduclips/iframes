@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "MapEditor",
+"dataUrl": "FR_LevelDesign_beta.data.unityweb",
+"asmCodeUrl": "FR_LevelDesign_beta.asm.code.unityweb",
+"asmMemoryUrl": "FR_LevelDesign_beta.asm.memory.unityweb",
+"asmFrameworkUrl": "FR_LevelDesign_beta.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#272A31",
+"cacheControl": {"dataUrl": "must-revalidate"}
+}
