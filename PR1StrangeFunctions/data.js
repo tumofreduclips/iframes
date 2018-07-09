@@ -30,6 +30,7 @@ const slidesData = {
         "with_normal_funct_2.png",
         "with_normal_funct_3.png",
         "with_normal_funct_4.png",
-        "with_normal_funct_5.png"
+        "with_normal_funct_5.png",
+        "download_fr.png"
     ]
 }
