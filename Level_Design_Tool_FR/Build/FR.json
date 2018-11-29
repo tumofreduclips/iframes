@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "MapEditor",
+"dataUrl": "FR.data.unityweb",
+"asmCodeUrl": "FR.asm.code.unityweb",
+"asmMemoryUrl": "FR.asm.memory.unityweb",
+"asmFrameworkUrl": "FR.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#272A31"
+}
