@@ -1,12 +1,11 @@
 {
 "companyName": "TUMO",
-"productName": "Déclencheurs",
+"productName": "Caractéristiques",
 "dataUrl": "STAT - Player.data.unityweb",
-"asmCodeUrl": "STAT - Player.asm.code.unityweb",
-"asmMemoryUrl": "STAT - Player.asm.memory.unityweb",
-"asmFrameworkUrl": "STAT - Player.asm.framework.unityweb",
+"wasmCodeUrl": "STAT - Player.wasm.code.unityweb",
+"wasmFrameworkUrl": "STAT - Player.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
-"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"graphicsAPI": ["WebGL 2.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20"
