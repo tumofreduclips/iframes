@@ -1,6 +1,6 @@
 {
 "companyName": "TUMO",
-"productName": "STATS",
+"productName": "Déclencheurs",
 "dataUrl": "STAT - Player.data.unityweb",
 "wasmCodeUrl": "STAT - Player.wasm.code.unityweb",
 "wasmFrameworkUrl": "STAT - Player.wasm.framework.unityweb",
