@@ -1,0 +1,13 @@
+{
+"companyName": "Tumo Center for Creative Technologies",
+"productName": "Examiner",
+"dataUrl": "Examiner_FR.data.unityweb",
+"asmCodeUrl": "Examiner_FR.asm.code.unityweb",
+"asmMemoryUrl": "Examiner_FR.asm.memory.unityweb",
+"asmFrameworkUrl": "Examiner_FR.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
