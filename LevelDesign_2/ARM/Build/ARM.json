@@ -1,0 +1,13 @@
+{
+"companyName": "TUMO",
+"productName": "Level Designer Game",
+"dataUrl": "ARM.data.unityweb",
+"wasmCodeUrl": "ARM.wasm.code.unityweb",
+"wasmFrameworkUrl": "ARM.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}

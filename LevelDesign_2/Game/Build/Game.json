@@ -1,6 +1,6 @@
 {
-"companyName": "Game",
-"productName": "Level Designer",
+"companyName": "TUMO",
+"productName": "Level Designer Game",
 "dataUrl": "Game.data.unityweb",
 "wasmCodeUrl": "Game.wasm.code.unityweb",
 "wasmFrameworkUrl": "Game.wasm.framework.unityweb",
