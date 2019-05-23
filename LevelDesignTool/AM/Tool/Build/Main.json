@@ -1,0 +1,13 @@
+{
+"companyName": "TUMO",
+"productName": "New_LevelDesign",
+"dataUrl": "Main.data.unityweb",
+"asmCodeUrl": "Main.asm.code.unityweb",
+"asmMemoryUrl": "Main.asm.memory.unityweb",
+"asmFrameworkUrl": "Main.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
